@@ -1,4 +1,4 @@
-Certainly! Here's an example of a README for your project:
+Certainly! Here's an updated version of the README with a table for future updates:
 
 ```markdown
 # YouTube Playlist Duration Calculator
@@ -10,13 +10,13 @@ This is a JavaScript project that calculates the total duration of a YouTube pla
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/HelalOmar2001/ youtube-downloader---displayer.git
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd your-repo
+   cd  youtube-downloader---displayer
    ```
 
 3. Install the dependencies:
@@ -41,6 +41,14 @@ This is a JavaScript project that calculates the total duration of a YouTube pla
 
    The script will fetch the playlist page, scrape the durations of each video, and calculate the total duration in seconds. The result will be printed to the console.
 
+## Future Updates
+
+| Version | Description                 |
+| ------- | --------------------------- |
+| 1.1.0   | Making Gui & adding the web scraping feature rather than using youtube data api |
+| 1.2.0   | Improve error handling and dealing with web scraping errors and low speed       |
+| 1.3.0   | Downloading youtube videos feature      |
+
 ## Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
@@ -50,6 +58,4 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-In this README example, I've included sections for installation, usage, contributing, and license information. Remember to replace `'your-username/your-repo'` with the actual GitHub repository URL of your project.
-
-Feel free to customize the README further based on your project's specific details and requirements.
+In the "Future Updates" section, I've added a table with two columns: "Version" and "Description". You can customize the table by adding more rows to list additional future updates you have planned for the project.
